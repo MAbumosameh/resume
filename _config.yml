@@ -1,6 +1,15 @@
-title: title here
+title: <p align="center"> Mohammad Abumosameh </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/mabumosameh/">LinkedIn</a> |
+  <a href="https://github.com/mabumosameh">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  write descreption here!!
+  <br><br>
+  </p>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
