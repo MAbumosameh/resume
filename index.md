@@ -6,6 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+![Datacamp workspace](https://res.cloudinary.com/dyd911kmh/image/upload/v1652449277/workspace_fc05db1ca9.gif){: style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
